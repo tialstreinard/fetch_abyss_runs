@@ -9,12 +9,12 @@ Having your own data allows further analysis for your character runs, without bu
 - Keep in mind that data are *voluntarily submitted by the Community* and, as such, may contain inconsistencies
 
 ## How to run
-[This script]is the simplest iteration to obtain run data.
+[This script](https://github.com/tialstreinard/fetch_abyss_runs/blob/main/get_abyss_data.sh) is the simplest iteration to obtain run data.
 
 Download or copy the script, then:
 
-`chmod +x abyss_runs_simplest.sh`
+`chmod +x get_abyss_data.sh`
 
-`./abyss_runs_simplest.sh`
+`./get_abyss_data.sh`
 
 Repeat as needed with new parameters and file names to get more data. 
